@@ -1,0 +1,114 @@
+.container{
+    display: flex;
+    gap: 950px;
+    position: fixed;
+    left: 35px;
+   
+}
+/* .photo{
+    position: fixed;
+} */
+.box{
+    box-shadow: 15px -15px 15px rgb(39, 25, 25);
+    position: relative;
+    top: 100px;
+    margin: 50px;
+    background: white;
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+   
+    border: green solid 2px;
+}
+.box1{
+    text-align: center;
+    color: aquamarine;
+  text-decoration: underline;
+}
+.b1{
+    /* position: relative; */
+    top: 50px;
+}
+.box2{
+    text-align: center;
+    color: aquamarine;
+  text-decoration: line-through;
+}
+.b2{
+    /* position: relative; */
+    top: 50px;
+    word-spacing: 5px;
+}
+.box3{
+    text-align: center;
+    color: aquamarine;
+ 
+}
+.b3{
+    /* position: relative; */
+    top: 10px;
+    
+}
+.box4{
+   
+    text-align: center;
+    color: aquamarine;
+ text-decoration: overline;
+}
+.b4{
+    /* position: relative; */
+    top: 50px;
+    
+}
+.box5{
+   
+    text-align: center;
+    color: aquamarine;
+ text-decoration: overline;
+}
+.b5{
+    text-decoration: line-through;
+    position: relative;
+    top: 50px;
+    text-decoration: underline;
+}
+.box6{
+    text-align: center;
+    color: aquamarine;
+    text-decoration: line-through;
+}
+.b6{
+    text-decoration: underline;
+    /* position: relative; */
+    top: 50px;
+}
+.box7{
+    text-align: center;
+    color: aquamarine;
+    text-decoration: line-through;
+}
+.b7{
+    text-decoration: underline;
+    /* position: relative; */
+    top: 50px;
+}
+.box8{
+    text-align: center;
+    color: aquamarine;
+    text-decoration: line-through;
+}
+.b8{
+    text-decoration: dashed;
+    /* position: relative; */
+    top: 50px;
+}
+.box9{
+    text-align: center;
+    color: aquamarine;
+    text-decoration: line-through;
+}
+.b9{
+   text-decoration: overline;
+    /* position: relative; */
+    top: 50px;
+}
